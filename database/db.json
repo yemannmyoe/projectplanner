@@ -5,12 +5,6 @@
       "title": "project title 1",
       "detail": "project detail 1",
       "complete": false
-    },
-    {
-      "id": "2",
-      "title": "project title 2 again",
-      "detail": "project detail 2 again",
-      "complete": false
     }
   ]
 }
